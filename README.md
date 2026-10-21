@@ -62,5 +62,5 @@ Os dados seguem o padrão NGSIv2 do FIWARE. O ESP32 envia as medidas com nomes c
 
 ## 8. Links
 
-- Simulação no Wokwi: link do projeto.
+- Simulação no Wokwi: [link do projeto.](https://wokwi.com/projects/478519581480357889)
 - Vídeo de demonstração: inserir o link do vídeo.
